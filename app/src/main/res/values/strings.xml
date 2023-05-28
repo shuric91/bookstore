@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Book Store</string>
+    <string name="add_book_to_library">Add new book entity to library</string>
+    <string name="all_books_tab">All</string>
+    <string name="to_read_books_tab">To Read</string>
+    <string name="favorite_books_tab">Favorite</string>
+</resources>
